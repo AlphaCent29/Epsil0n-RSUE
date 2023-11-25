@@ -6,7 +6,7 @@
 Наглядная визуализация данных;
 
 Основной стек технологий:
-Python(создание CSV), Django, HTML, CSS
+Python(создание CSV), Django, HTML, CSS, infogram
 
 Демо:
 Демо сервиса доступно при запуске проекта WebAppAxenix.
